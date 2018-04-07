@@ -1,0 +1,125 @@
+.modal-title {
+	text-align: center;
+}
+
+.valids {
+	color: green;
+	font-weight: bold;
+}
+
+.errors {
+	color: red;
+	font-weight: bold;
+}
+
+.attention {
+	color: red;
+	font-style: italic;
+	text-align: center;
+}
+
+.passwordhash {
+	font-size: 22px;
+	color:red;
+	text-align:center;
+}
+
+.margetab {
+	margin-top: 42px;
+}
+
+.margetop {
+	margin-top: 58px;
+}
+
+.card-title {
+	text-align: center;
+}
+
+.optimisation_container {
+	margin-top: 6px;
+}
+
+.marge_input {
+	margin-top: 6px;
+}
+
+.error_message .errors{
+	text-align: center;
+}
+
+.card-text  {
+	text-align:center;
+}
+
+.container .marge_contain {
+	padding-top: 15px;
+}
+
+.block {
+	margin-top: 20px;
+	display: block;
+}
+
+.selectform select{
+	width: 100%;
+}
+
+.margintop {
+	margin-top: 25px;
+}
+
+.ip {
+	margin-top: 55px;
+}
+
+.margebutton {
+	margin-bottom: 10px;
+}
+
+.margincard {
+	margin-top: 18px;
+}
+
+
+.marge_button{
+	margin-top: 7%;
+}
+
+
+.modal-body {
+    position: relative;
+    padding: 15px; 
+}
+
+.jumbotron {
+     padding-top: 20px; 
+     padding-bottom: 20px; 
+}
+
+.dimension {
+	margin-top: 25%;
+}
+
+@media screen and  (min-width: 350px) {
+	.dimension .modal-content {
+		width: 58%;
+	}
+}
+
+.check_ok {
+	color: green; 
+	padding: 5px;
+}
+
+.check_prob {
+	color: red;
+	padding: 5px;
+}
+
+.button_form_asc {
+	margin-top: 7px !important;
+}
+.inline-ip {
+	display: inline-block;
+}

@@ -1,0 +1,445 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: carla\\languages\n"
+"POT-Creation-Date: 2017-10-17 12:20+0200\n"
+"PO-Revision-Date: 2017-09-30 14:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: carla-conf.php:26
+msgid "Secure"
+msgstr ""
+
+#: carla-conf.php:27
+msgid "Secure sensitive files / directories."
+msgstr ""
+
+#: carla-conf.php:35
+msgid "optimization"
+msgstr ""
+
+#: carla-conf.php:36
+msgid "Optimization of server response time."
+msgstr ""
+
+#: carla-conf.php:44
+msgid "Location"
+msgstr ""
+
+#: carla-conf.php:45
+msgid "IP registration of visitors and geolocation."
+msgstr ""
+
+#: carla-conf.php:59
+msgid "Deleting the version number."
+msgstr ""
+
+#: carla-conf.php:60
+msgid "Deleting the Wordpress version number can slow down, see block a hacker. It will no longer be able to target the potential flaws of a specific version."
+msgstr ""
+
+#: carla-conf.php:61 carla-conf.php:70 carla-conf.php:83
+msgid "Before"
+msgstr ""
+
+#: carla-conf.php:68
+msgid "Stop enumeration."
+msgstr ""
+
+#: carla-conf.php:69
+msgid "Many tools exist for enumerate a wordpress site and know the names of the users registered on it. It will no longer be possible to obtain results via a scanner."
+msgstr ""
+
+#: carla-conf.php:71 carla-conf.php:84
+msgid "Now"
+msgstr ""
+
+#: carla-conf.php:81
+msgid "Modification of the login error message."
+msgstr ""
+
+#: carla-conf.php:82
+msgid "In the event of an attack by brute force, the hacker will have no clues as to the validity of the username tested during the attack, the message will indicate only a connection error."
+msgstr ""
+
+#: carla-conf.php:93
+msgid "Help the creator"
+msgstr ""
+
+#: carla-conf.php:93
+msgid "By doing a DON, you participate in the improvement of the extension as well as the security of your site, think there ;-)"
+msgstr ""
+
+#: carla-conf.php:93
+msgid "Information"
+msgstr ""
+
+#: carla-conf.php:95
+msgid "Make a donation"
+msgstr ""
+
+#: carla.php:174 carla.php:181 carla.php:188 carla.php:195 carla.php:202
+msgid "Vous n'avez pas les droits pour accéder à cette page."
+msgstr ""
+
+#: modules/geolocalisation.php:15
+msgid "Delete the ips"
+msgstr ""
+
+#: modules/geolocalisation.php:57
+msgid "Details"
+msgstr ""
+
+#: modules/geolocalisation.php:85
+msgid "Geolocation"
+msgstr ""
+
+#: modules/geolocalisation.php:92
+msgid "Country"
+msgstr ""
+
+#: modules/geolocalisation.php:96
+msgid "Postal Code"
+msgstr ""
+
+#: modules/geolocalisation.php:100
+msgid "Region"
+msgstr ""
+
+#: modules/geolocalisation.php:104
+msgid "City"
+msgstr ""
+
+#: modules/geolocalisation.php:108
+msgid "Zip"
+msgstr ""
+
+#: modules/geolocalisation.php:112
+msgid "Latitude"
+msgstr ""
+
+#: modules/geolocalisation.php:116
+msgid "Longitude"
+msgstr ""
+
+#: modules/geolocalisation.php:120
+msgid "Time zone"
+msgstr ""
+
+#: modules/geolocalisation.php:124
+msgid "Org"
+msgstr ""
+
+#: modules/geolocalisation.php:128
+msgid "IP"
+msgstr ""
+
+#: modules/geolocalisation.php:132
+msgid "Web browser"
+msgstr ""
+
+#: modules/geolocalisation.php:139 modules/hashage.php:181
+#: modules/htaccess.php:215 modules/optimisation.php:228
+msgid "Close"
+msgstr ""
+
+#: modules/hashage.php:13 modules/hashage.php:21
+msgid "Encrypt password"
+msgstr ""
+
+#: modules/hashage.php:19
+msgid "Password..."
+msgstr ""
+
+#: modules/hashage.php:31 modules/htaccess.php:156 modules/optimisation.php:176
+msgid "Read more"
+msgstr ""
+
+#: modules/hashage.php:65
+msgid "you chose :"
+msgstr ""
+
+#: modules/hashage.php:67 modules/hashage.php:137
+msgid "Warning !"
+msgstr ""
+
+#: modules/hashage.php:67
+msgid "You have not configured a password !"
+msgstr ""
+
+#: modules/hashage.php:82
+msgid "Method"
+msgstr ""
+
+#: modules/hashage.php:83
+msgid "Value"
+msgstr ""
+
+#: modules/hashage.php:101 modules/hashage.php:114
+msgid "Edit"
+msgstr ""
+
+#: modules/hashage.php:133
+msgid "It's ok !"
+msgstr ""
+
+#: modules/hashage.php:133
+msgid "You have just changed your password"
+msgstr ""
+
+#: modules/hashage.php:137
+msgid "The password is not changed"
+msgstr ""
+
+#: modules/hashage.php:166
+msgid "encryption / password change"
+msgstr ""
+
+#: modules/hashage.php:169
+msgid "By clicking on \"edit\" the password of the account you use will be changed."
+msgstr ""
+
+#: modules/hashage.php:170
+msgid "Green color"
+msgstr ""
+
+#: modules/hashage.php:170
+msgid "means that it's a hash mode compatible with Wordpress."
+msgstr ""
+
+#: modules/hashage.php:171
+msgid "Red color"
+msgstr ""
+
+#: modules/hashage.php:171
+msgid "means that it is a hash mode that is incompatible with Wordpress (for information)"
+msgstr ""
+
+#: modules/hashage.php:172
+msgid "It is strongly recommended to choose the BCRYPT hash mode for the reasons below."
+msgstr ""
+
+#: modules/hashage.php:173
+msgid "What is bcrypt?"
+msgstr ""
+
+#: modules/hashage.php:175
+msgid "Bcrypt is a hashing algorithm that is scalable depending on the server that launches it. Bcrypt uses the Eksblowfish hashing algorithm. Whoever decides to hack your password for example will have a lot to do and will have to invest in expensive materials."
+msgstr ""
+
+#: modules/hashage.php:177
+msgid "Add to this that the algorithm always uses salt (grains of salts) which adds further complicity."
+msgstr ""
+
+#: modules/htaccess.php:52
+msgid "The wp-config file is now protected !"
+msgstr ""
+
+#: modules/htaccess.php:56 modules/htaccess.php:74 modules/htaccess.php:92
+#: modules/htaccess.php:110 modules/htaccess.php:119
+#: modules/optimisation.php:97 modules/optimisation.php:115
+#: modules/optimisation.php:134 modules/optimisation.php:144
+msgid "Warning ! "
+msgstr ""
+
+#: modules/htaccess.php:56
+msgid "The wp-config file is already protected !"
+msgstr ""
+
+#: modules/htaccess.php:70
+msgid "It is now impossible for an individual to browse the directories of your server !"
+msgstr ""
+
+#: modules/htaccess.php:74
+msgid "Navigation between directories is no longer possible !"
+msgstr ""
+
+#: modules/htaccess.php:88 modules/htaccess.php:92
+msgid "Your .htaccess file is now protected !"
+msgstr ""
+
+#: modules/htaccess.php:106
+msgid "The include directory is protected !"
+msgstr ""
+
+#: modules/htaccess.php:110
+msgid "The include directory is already protected !"
+msgstr ""
+
+#: modules/htaccess.php:119
+msgid "You have not made a choice !"
+msgstr ""
+
+#: modules/htaccess.php:133
+msgid "Server security"
+msgstr ""
+
+#: modules/htaccess.php:139
+msgid "Protect the wp-config file"
+msgstr ""
+
+#: modules/htaccess.php:141 modules/htaccess.php:197
+msgid "Prevent listing your directories"
+msgstr ""
+
+#: modules/htaccess.php:143
+msgid "Protect the .htaccess file"
+msgstr ""
+
+#: modules/htaccess.php:145
+msgid "Block access to wp-includes"
+msgstr ""
+
+#: modules/htaccess.php:148
+msgid "To secure !"
+msgstr ""
+
+#: modules/htaccess.php:189
+msgid "Protection"
+msgstr ""
+
+#: modules/htaccess.php:192
+msgid "File protection wp-config.php"
+msgstr ""
+
+#: modules/htaccess.php:194 modules/htaccess.php:206
+msgid "The file"
+msgstr ""
+
+#: modules/htaccess.php:194
+msgid "wp-config"
+msgstr ""
+
+#: modules/htaccess.php:194
+msgid "contains the accesses to your database, it is therefore imperative to block access to it."
+msgstr ""
+
+#: modules/htaccess.php:199
+msgid "By default under Apache, when there is no index page, what you see in your browser is the list of files and directories contained on your server."
+msgstr ""
+
+#: modules/htaccess.php:201
+msgid "it will be impossible for an attacker to know the contents of your directories."
+msgstr ""
+
+#: modules/htaccess.php:204
+msgid "Protecting the .htaccess file"
+msgstr ""
+
+#: modules/htaccess.php:206
+msgid ".htaccess"
+msgstr ""
+
+#: modules/htaccess.php:206
+msgid "handles many things like protecting your server, so think about protecting it too."
+msgstr ""
+
+#: modules/htaccess.php:209
+msgid "Wp-includes directory protection"
+msgstr ""
+
+#: modules/htaccess.php:211
+msgid "Some files should not be accessed, so it is imperative to block access to visitors or attackers."
+msgstr ""
+
+#: modules/optimisation.php:93
+msgid "GZIP cache enabled!"
+msgstr ""
+
+#: modules/optimisation.php:97
+msgid " GZIP compression is already enabled!"
+msgstr ""
+
+#: modules/optimisation.php:111
+msgid "The speed of your site is optimized!"
+msgstr ""
+
+#: modules/optimisation.php:115
+msgid " The speed of your site is already optimized!"
+msgstr ""
+
+#: modules/optimisation.php:130
+msgid "Caching enabled!"
+msgstr ""
+
+#: modules/optimisation.php:134
+msgid " Caching is already enabled!"
+msgstr ""
+
+#: modules/optimisation.php:144
+msgid " you have not made a choice!"
+msgstr ""
+
+#: modules/optimisation.php:157
+msgid "Optimize the speed of your site"
+msgstr ""
+
+#: modules/optimisation.php:162 modules/optimisation.php:212
+msgid "Enable GZIP compression"
+msgstr ""
+
+#: modules/optimisation.php:164 modules/optimisation.php:215
+msgid "Caching"
+msgstr ""
+
+#: modules/optimisation.php:166
+msgid "Boost site speed"
+msgstr ""
+
+#: modules/optimisation.php:168
+msgid "Optimize"
+msgstr ""
+
+#: modules/optimisation.php:209
+msgid "Optimization"
+msgstr ""
+
+#: modules/optimisation.php:213
+msgid "Compression is a simple and effective way to save bandwidth and speed up the loading speed of your site."
+msgstr ""
+
+#: modules/optimisation.php:216
+msgid "The .htaccess file lets you cache some of your site's files in your visitors' browser for faster loading."
+msgstr ""
+
+#: modules/optimisation.php:217
+msgid "Indeed, the browser will not need to re-download the files present in its cache."
+msgstr ""
+
+#: modules/optimisation.php:219
+msgid "Server response time optimization"
+msgstr ""
+
+#: modules/optimisation.php:221
+msgid "The directive is deactivated"
+msgstr ""
+
+#: modules/optimisation.php:221
+msgid "which does not add anything to WordPress, just like the directive"
+msgstr ""
+
+#: modules/optimisation.php:221
+msgid "with"
+msgstr ""
+
+#: modules/optimisation.php:222
+msgid "However, the module"
+msgstr ""
+
+#: modules/optimisation.php:222
+msgid "is astivated, which makes it possible to optimize the PHP code and to cache the most used queries."
+msgstr ""
+
+#: modules/optimisation.php:223
+msgid "We also activate the PHP version 5 which will be useful for quite a lot of WordPress module."
+msgstr ""
